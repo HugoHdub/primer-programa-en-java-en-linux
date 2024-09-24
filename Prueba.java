@@ -4,8 +4,9 @@ public class Prueba {
 
 		System.out.println("Baloncesto");
 		System.out.println("Cancha");
+		System.out.println("Instagram");
 
-	
+
 	}
 
 }
